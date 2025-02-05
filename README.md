@@ -1,0 +1,5 @@
+## Proyecto de Análisis de Datos sobre misiones espaciales
+
+Este proyecto está hecho en Python usando Jupyter Notebook. Usando los datos del archivo .CSV y analizandolos en el archivo .ipynb.
+Dentro del proyecto se encontrarán con un reconocimiento de los datos que tiene el archivo .CSV, viendo si hay datos nulos y que tipo de dato es cada columna. Luego hay una limpieza de datos donde los datos nulos de la columna 'millions $' son reemplazados por el promedio de dicha columna. a continuación de ese paso, reemplazo valores de otras columnas para quedarme con el dato que más me interesa en ese momento de esa columna para poder hacer un análisis, como, por ejemplo, quedarme solamente con el año de la fecha en la cual se lanzaron los cohetes, o también el quedarme solamente con el país donde se lanzó ese cohete.
+En el análisis que se puede observar en el archivo .ipynb, se puede ver que países lanzaron más cohetes, además, se pueden ver unos gráficos que detallan cuanto se gastó en total por año por los cohetes y las probabilidades de éxito a través de los años.
